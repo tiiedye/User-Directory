@@ -1,4 +1,5 @@
-[![Generic badge](https://img.shields.io/badge/User-Directory-brightgreen.svg)](https://shields.io/)
+![made-with-VSCode](https://img.shields.io/badge/Made%20With-VS%20Code-blue)  ![Using-React](https://img.shields.io/badge/Using-React-ff69b4)
+
 # User Directory
 A user Directory using React to filter through registered users.
 
